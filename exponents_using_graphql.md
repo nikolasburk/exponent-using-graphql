@@ -35,7 +35,7 @@ Using the Apollo client, you can benefit from _caching_, _optimistic UI_, _subsc
 
 In the following, we'll explain how to set up a GraphQL project using these two technologies. For an in-depth tutorial on how to use Graphcool with the Apollo client, visit the [Learn Apollo Exponent Guide](https://www.learnapollo.com/tutorial-react-native-exponent/rne-01/). 
 
-We also prepared a full Instagram example that uses Graphcool, Apollo and Auth0 - you can check it out [here](https://github.com/graphcool-examples/exponent-auth0-instagram-example). 
+We also prepared a full **Instagram example that uses Graphcool, Apollo and Auth0** - you can check it out [here](https://github.com/graphcool-examples/exponent-auth0-instagram-example). 
 
 
 ## Creating the Graphcool backend
