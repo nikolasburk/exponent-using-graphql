@@ -193,7 +193,7 @@ class App extends React.Component {
 }
 ```
 
-### Connecting data to a component¶
+### Connecting data to a component
 
 All that is left to do is connect data from your GraphQL API to a React component where you can render your data to a user. To do this you can use the `graphql` function from the [react-apollo](https://www.npmjs.com/package/react-apollo) package to create a higher order component.
 
