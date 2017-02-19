@@ -47,6 +47,8 @@ After [creating a Graphcool account](https://console.graph.cool/signup) you cen 
 If you want to use the Apollo client, you will need the endpoint for Graphcool's [**Simple API**](https://www.graph.cool/docs/reference/simple-api/overview-heshoov3ai):
 
 ![](./graphcool_setup.png)
+<img src="./graphcool_setup.png" width="48">
+
 
 We will tell you how to set up the Apollo client in a bit.
 
