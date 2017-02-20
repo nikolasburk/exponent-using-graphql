@@ -46,7 +46,7 @@ After [creating a Graphcool account](https://console.graph.cool/signup) you can 
 
 If you want to use the Apollo client, you will need the endpoint for Graphcool's [**Simple API**](https://www.graph.cool/docs/reference/simple-api/overview-heshoov3ai):
 
-<img src="./graphcool_setup.png" height="450">
+<img src="http://imgur.com/ZdH5iE2.png" height="450">
 
 
 We will tell you how to set up the Apollo client in a bit.
@@ -58,7 +58,7 @@ When you are done setting up your data model, it's time to start querying your d
 
 > Note: You can either use the playground that is available directly in the [GraphQL console](https://console.graph.cool) or copy the endpoint into the address bar of your browser if you want to work with it separately. The **autocompletion feature** of the playground is a fantastic tool that helps you to build exactly the queries you need.
 
-<img src="./graphcool_playground.png" height="450">
+<img src="http://i.imgur.com/dSGk5u4.png" height="450">
 
 In an Instagram-like app, you could query all _posts_ using a _query_ that looks as follows:
 
