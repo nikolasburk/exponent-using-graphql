@@ -12,7 +12,9 @@ For instance, with a GraphQL query you are guaranteed to only ever get the exact
 
 ## How to get started with GraphQL?
 
-GraphQL has only been released as a _specification_, that means that you can go and implement a GraphQL server yourself in any server-side language of your choice! In order to use GraphQL from an application, you will also need a client that is responsible for the interaction with the GraphQL server.
+GraphQL has only been released as a _specification_, that means that you can go and implement a GraphQL **server** yourself in any server-side language of your choice! 
+
+In order to use GraphQL from an application, you will also need a **client** that is responsible for the interaction with the GraphQL server.
 
 
 ### GraphQL Backend
